@@ -1,0 +1,4 @@
+ProductID,ProductName,Category,CostPrice,SellingPrice
+P101,Product A,Grocery,400,500
+P102,Product B,Snacks,850,1000
+P103,Product C,Beverages,100,150
